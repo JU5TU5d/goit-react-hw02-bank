@@ -1,5 +1,5 @@
 {
-  "name": "goit-react-hw-02-bank-account",
+  "name": "goit-react-hw02-bank",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,7 +14,7 @@
     "shortid": "^2.2.15",
     "styled-components": "^4.4.0"
   },
-  "homepage": "https://JU5TU5d.github.io/goit-react-hw-02-bank-account/.",
+  "homepage": "https://JU5TU5d.github.io/goit-react-hw02-bank/.",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
